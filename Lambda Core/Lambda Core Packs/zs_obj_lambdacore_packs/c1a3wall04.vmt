@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "zs_obj_lambdacore_packs\c1a3wall04"
+    "$bumpmap" "zs_obj_lambdacore_packs\c1a3wall01_normal"
+    "$surfaceprop" "concrete"
+    "%keywords" "nican"
+}

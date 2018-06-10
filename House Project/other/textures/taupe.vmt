@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gregghouse/taupe"
+	"$bumpmap" "gregghouse/taupe_normal"
+	"$surfaceprop" "plaster"
+}

@@ -1,0 +1,7 @@
+"LightMappedGeneric"
+{
+	"$basetexture"	"zs_obj_lambdacore_packs/wall_map_01"
+	"$surfaceprop"	"glass"
+	"$selfillum"	1
+	"$halflambert"	1
+}

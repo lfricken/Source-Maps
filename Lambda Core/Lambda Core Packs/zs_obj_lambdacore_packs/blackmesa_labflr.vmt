@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "zs_obj_lambdacore_packs/blackmesa_labflr"
+	"$bumpmap" "zs_obj_lambdacore_packs/blackmesa_labflr_normal"
+	"$surfaceprop" "concrete"
+}

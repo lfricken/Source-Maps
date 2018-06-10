@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "zs_obj_lambdacore_packs\lambdacore_map"
+    "$bumpmap" "zs_obj_lambdacore_packs\lambdacore_map_normal"
+    "$surfaceprop" "metal"
+    "%keywords" "map"
+}

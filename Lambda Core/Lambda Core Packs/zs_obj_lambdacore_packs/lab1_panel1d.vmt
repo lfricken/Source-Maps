@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmapPlusMaskedSphericalEnvMap
+	"$basetexture" "zs_obj_lambdacore_packs/lab1_panel1d"
+	"$envmapsphere" 1
+	"$envmap" "zs_obj_lambdacore_packs/envmap001a"
+	"$envmapmask" "zs_obj_lambdacore_packs/lab1_panel1dr"
+	"$surfaceprop" "metal"
+}

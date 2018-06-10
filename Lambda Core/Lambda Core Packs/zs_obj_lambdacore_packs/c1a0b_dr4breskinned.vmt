@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "zs_obj_lambdacore_packs\c1a0b_dr4breskinned"
+    "$bumpmap" "zs_obj_lambdacore_packs\c1a0b_dr4breskinned_normal"
+    "$surfaceprop" "metal"
+    "%keywords" "nican"
+}

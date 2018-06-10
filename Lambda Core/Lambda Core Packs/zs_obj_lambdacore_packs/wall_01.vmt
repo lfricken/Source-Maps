@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "zs_obj_lambdacore_packs/wall_01"
+	"$surfaceprop" "concrete"
+                "%keywords" "wall"
+                "$bumpmap" "zs_obj_lambdacore_packs/wall_normal"
+                "$normalmapalphaenvmapmask" "1"
+}

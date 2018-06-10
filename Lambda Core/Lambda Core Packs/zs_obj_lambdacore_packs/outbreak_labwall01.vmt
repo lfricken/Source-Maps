@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture"	"zs_obj_lambdacore_packs\outbreak_labwall01"
+	"$bumpmap"	"zs_obj_lambdacore_packs\outbreak_labwall01_normal"
+	"$envmapmask" "zs_obj_lambdacore_packs\outbreak_labwall01_spec"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .1 .1 .1 ]"
+
+	"$surfaceprop" "metal"
+
+}
